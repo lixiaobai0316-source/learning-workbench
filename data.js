@@ -1,8 +1,8 @@
 /* 学习工作台数据文件 - 由 sync_data.py 自动生成 - 请勿手动编辑 */
-/* 生成时间: 2026-08-06 09:02 */
+/* 生成时间: 2026-08-06 14:24 */
 var WORKBENCH_DATA = {
   "meta": {
-    "generatedAt": "2026-08-06 09:02",
+    "generatedAt": "2026-08-06 14:24",
     "version": 3,
     "note": "由 sync_data.py 自动生成，请勿手动编辑。自动化任务生成内容后运行 sync_data.py 刷新。"
   },
